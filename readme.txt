@@ -1,0 +1,2 @@
+# split -b 20m CoppeliaSim_Edu_V4_3_0_Ubuntu18_04.tar.xz CoppeliaSim_Edu_V4_3_0_Ubuntu18_04.tar.xz___split_
+cat CoppeliaSim_Edu_V4_3_0_Ubuntu18_04.tar.xz___split_* > CoppeliaSim_Edu_V4_3_0_Ubuntu18_04.tar.xz
